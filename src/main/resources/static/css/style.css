@@ -1,0 +1,40 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.hero {
+    background: linear-gradient(135deg, #14213d, #2563eb);
+    color: white;
+    padding: 110px 20px;
+}
+
+.hero h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.feature-card {
+    background: white;
+    padding: 30px;
+    margin: 10px 0;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+    height: 100%;
+}
+
+.feature-card h4 {
+    color: #2563eb;
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 60px;
+}

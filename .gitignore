@@ -1,0 +1,6 @@
+target/
+*.class
+*.log
+.settings/
+.env
+application-local.properties
